@@ -71,4 +71,3 @@ networks:
 volumes:
   postgres-data:
     driver: local
-
